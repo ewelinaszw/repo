@@ -1,0 +1,2 @@
+# repo
+zadania z pythona
